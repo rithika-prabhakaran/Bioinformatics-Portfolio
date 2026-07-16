@@ -1,0 +1,45 @@
+==================================================
+PROJECT 04 - FASTA FILE ANALYZER
+==================================================
+Sequence ID : NM_007294.4
+Description : NM_007294.4 Homo sapiens BRCA1 DNA repair associated (BRCA1), transcript variant 1, mRNA
+Length : 7088 bp
+A : 2368
+T : 1759
+G : 1585
+C : 1376
+GC % : 41.77%
+AT % : 58.23%
+Start Codons : 140
+Total Stop Codons : 402
+
+==================================================
+PROJECT 04 - FASTA FILE ANALYZER
+==================================================
+Sequence ID : NM_001407585.1
+Description : NM_001407585.1 Homo sapiens BRCA1 DNA repair associated (BRCA1), transcript variant 10, mRNA
+Length : 7138 bp
+A : 2388
+T : 1771
+G : 1592
+C : 1387
+GC % : 41.73%
+AT % : 58.27%
+Start Codons : 142
+Total Stop Codons : 404
+
+==================================================
+PROJECT 04 - FASTA FILE ANALYZER
+==================================================
+Sequence ID : NM_001407571.1
+Description : NM_001407571.1 Homo sapiens BRCA1 DNA repair associated (BRCA1), transcript variant 6, mRNA
+Length : 7152 bp
+A : 2375
+T : 1771
+G : 1618
+C : 1388
+GC % : 42.03%
+AT % : 57.97%
+Start Codons : 141
+Total Stop Codons : 404
+

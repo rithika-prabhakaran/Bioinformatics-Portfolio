@@ -1,11 +1,54 @@
-# Project 04 – FASTA File Analyzer
+# FASTA File Analyzer using Biopython
 
-This project is a Python-based FASTA File Analyzer developed as part of my Bioinformatics learning portfolio.
+## Overview
 
-## Current Contents
+This project is a FASTA sequence analyzer developed using Python and Biopython. It reads DNA sequences from a FASTA file and performs several common bioinformatics analyses.
 
-- FASTA File Analyzer source code
-- Sample FASTA sequence
-- Analysis output
+## Features
 
-More documentation will be added in future updates.
+- Read FASTA files
+- Support multiple FASTA sequences
+- Display sequence ID and description
+- Calculate sequence length
+- Count A, T, G and C bases
+- Calculate GC% and AT%
+- Validate DNA sequence
+- Search motifs
+- Generate reverse complement
+- DNA to RNA transcription
+- RNA to Protein translation
+- Detect start codons
+- Detect stop codons
+- Filter sequences based on GC content
+- Generate analysis report
+
+## Technologies Used
+
+- Python 3
+- Biopython
+- Ubuntu Linux
+- VS Code
+
+## Files
+
+- fasta_file_analyzer.py
+- brca1_NM.fasta
+- filtered_sequences.fasta
+- analysis_report.txt
+
+## How to Run
+
+```bash
+python3 fasta_analyzer.py
+```
+
+## Future Improvements
+
+- ORF Finder
+- Restriction Enzyme Analysis
+- NCBI Sequence Downloader
+- Bioinformatics Toolkit
+
+## Author
+
+Rithika Prabhakaran
